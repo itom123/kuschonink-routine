@@ -1,0 +1,32 @@
+{
+  "commit": "57dd051ba3b2",
+  "why": "the commit the live site runs (its build id, from https://kuschonink.com/)",
+  "guides": [
+    "paris-2026-11"
+  ],
+  "packages": {
+    "sharp": "^0.35.5"
+  },
+  "files": [
+    "scripts/suggestions/ROUTINE.md",
+    "scripts/suggestions/tool.mts",
+    "src/content/guides/access.json",
+    "src/content/guides/paris-2026-11/events.json",
+    "src/content/guides/paris-2026-11/guide.json",
+    "src/content/guides/paris-2026-11/items.json",
+    "src/content/guides/paris-2026-11/listings.json",
+    "src/content/guides/paris-2026-11/map.json",
+    "src/content/guides/paris-2026-11/places.json",
+    "src/content/guides/paris-2026-11/routes.json",
+    "src/lib/guides/address.ts",
+    "src/lib/guides/check.ts",
+    "src/lib/guides/core.ts",
+    "src/lib/guides/dedupe.ts",
+    "worker/github.ts",
+    "worker/image.ts",
+    "worker/notion.ts",
+    "worker/publish.ts",
+    "worker/suggestions.ts",
+    "wrangler.jsonc"
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "_comment": "Dated events and the day-by-day plan (participants only). Times are Paris time, HH:MM. 活动与每日安排（每日安排只给学员）；时间为巴黎时间。",
+  "events": [
+    {
+      "id": "meet-greet",
+      "date": "2026-11-08",
+      "start": "17:00",
+      "end": "18:00",
+      "place": "M",
+      "title": "FotoFilmic meet & greet",
+      "titleZh": "FotoFilmic 见面会",
+      "optional": true,
+      "audience": "fotofilmic"
+    },
+    {
+      "id": "class-1",
+      "date": "2026-11-09",
+      "start": "09:30",
+      "place": "W",
+      "title": "Workshop day 1",
+      "titleZh": "工作坊第1天",
+      "audience": "fotofilmic"
+    },
+    {
+      "id": "class-2",
+      "date": "2026-11-10",
+      "start": "09:00",
+      "place": "W",
+      "title": "Workshop day 2",
+      "titleZh": "工作坊第2天",
+      "audience": "fotofilmic"
+    },
+    {
+      "id": "class-3",
+      "date": "2026-11-11",
+      "start": "09:00",
+      "place": "W",
+      "title": "Workshop day 3",
+      "titleZh": "工作坊第3天",
+      "audience": "fotofilmic"
+    },
+    {
+      "id": "opening",
+      "date": "2026-11-10",
+      "start": "18:00",
+      "end": "20:00",
+      "place": "F",
+      "title": "FotoFilmic opening",
+      "titleZh": "FotoFilmic 开幕式"
+    },
+    {
+      "id": "gallery-hours",
+      "date": "2026-11-11",
+      "until": "2026-11-14",
+      "start": "11:00",
+      "end": "19:00",
+      "place": "F",
+      "title": "FotoFilmic exhibition open to the public",
+      "titleZh": "FotoFilmic 展览对公众开放"
+    },
+    {
+      "id": "jrnl",
+      "date": "2026-11-13",
+      "start": "18:00",
+      "end": "20:00",
+      "place": "F",
+      "title": "JRNL magazine launch",
+      "titleZh": "JRNL 杂志发布会"
+    },
+    {
+      "id": "closing",
+      "date": "2026-11-14",
+      "start": "18:00",
+      "end": "20:00",
+      "place": "F",
+      "title": "FotoFilmic closing reception",
+      "titleZh": "FotoFilmic 闭幕酒会"
+    },
+    {
+      "id": "aperture-beirut",
+      "date": "2026-11-11",
+      "start": "19:00",
+      "end": "21:00",
+      "title": "Aperture “The Beirut Issue” launch at Dover Street Market Paris",
+      "titleZh": "Aperture《The Beirut Issue》发布会，Dover Street Market Paris",
+      "note": "35–37 Rue des Francs-Bourgeois, 75004. RSVP on Aperture’s events page.",
+      "noteZh": "35–37 Rue des Francs-Bourgeois, 75004。请在 Aperture 活动页面登记。",
+      "optional": true
+    },
+    {
+      "id": "futures-opening",
+      "date": "2026-11-12",
+      "start": "17:30",
+      "end": "22:00",
+      "place": "B21",
+      "title": "FUTURES opening evening, with Der Greif",
+      "titleZh": "FUTURES 开幕之夜（与 Der Greif 合办）",
+      "optional": true
+    },
+    {
+      "id": "ecal-opening",
+      "date": "2026-11-12",
+      "start": "18:00",
+      "place": "C5",
+      "title": "ECAL “Soft Photography” opening",
+      "titleZh": "ECAL《Soft Photography》开幕",
+      "optional": true
+    },
+    {
+      "id": "joubert-opening",
+      "date": "2026-11-12",
+      "start": "18:00",
+      "end": "21:00",
+      "place": "B20",
+      "title": "Opening: Julie Joubert, “Patria Nostra”, and Marie Quéau, “La dernière plage”",
+      "titleZh": "开幕：Julie Joubert《Patria Nostra》与 Marie Quéau《La dernière plage》",
+      "optional": true
+    },
+    {
+      "id": "delpire-fulford",
+      "date": "2026-11-13",
+      "start": "11:00",
+      "place": "B22",
+      "title": "Jason Fulford, “Frozen Features”: breakfast launch at delpire & co",
+      "titleZh": "Jason Fulford《Frozen Features》：delpire & co 早餐发布会",
+      "note": "Free while places last.",
+      "noteZh": "免费，名额有限。",
+      "optional": true
+    },
+    {
+      "id": "delpire-shulman",
+      "date": "2026-11-13",
+      "start": "18:00",
+      "place": "B22",
+      "title": "Lee Shulman at delpire & co",
+      "titleZh": "Lee Shulman 在 delpire & co",
+      "note": "Free while places last. His shows are at Quai de la Photo and Union de la Jeunesse Internationale.",
+      "noteZh": "免费，名额有限。他的展览在 Quai de la Photo 和 Union de la Jeunesse Internationale。",
+      "optional": true
+    },
+    {
+      "id": "futures-artists",
+      "date": "2026-11-14",
+      "start": "11:00",
+      "end": "12:30",
+      "place": "B21",
+      "title": "Julia Rajacic in conversation with the five artists of “The Ecology of Movement”",
+      "titleZh": "Julia Rajacic 与《The Ecology of Movement》五位艺术家对谈",
+      "optional": true
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-11-08",
+      "plan": "If already in Paris, choose one open institution: HCB, LE BAL or Quai. Leave time for the optional 17:00–18:00 FotoFilmic meet & greet at Le Sancerre, 87 Rue des Archives.",
+      "planZh": "如果已经在巴黎，挑一家开放的机构：HCB、LE BAL 或 Quai。为 17:00–18:00 在 Le Sancerre（87 Rue des Archives）举行的可选 FotoFilmic 见面会留出时间。",
+      "audience": "fotofilmic"
+    },
+    {
+      "date": "2026-11-09",
+      "plan": "Workshop first. Most museums/galleries are closed. Do not make a long cross-city plan after class.",
+      "planZh": "以工作坊为先。大多数博物馆和画廊闭馆。下课后不要安排横穿城市的长线。",
+      "audience": "fotofilmic"
+    },
+    {
+      "date": "2026-11-10",
+      "plan": "Workshop and FotoFilmic opening at 18:00. A nearby short stop only if the actual class schedule permits.",
+      "planZh": "工作坊，以及 18:00 的 FotoFilmic 开幕式。只有实际课程安排允许时，才在附近短暂停留一站。",
+      "audience": "fotofilmic"
+    },
+    {
+      "date": "2026-11-11",
+      "plan": "Final workshop day and public holiday. HCB is the strongest nearby institutional option; confirm access before relying on smaller galleries. BnF is closed.",
+      "planZh": "工作坊最后一天，也是公共假日。HCB 是附近最值得去的机构；去小画廊之前先确认能否入场。BnF 闭馆。",
+      "audience": "fotofilmic"
+    },
+    {
+      "date": "2026-11-12",
+      "plan": "Best gallery-walk day: Marais route, plus an optional opening. MEP stays open to 22:00.",
+      "planZh": "最适合逛画廊的一天：走玛黑路线，再加一场可选的开幕活动。MEP 开放到 22:00。",
+      "audience": "fotofilmic"
+    },
+    {
+      "date": "2026-11-13",
+      "plan": "Choose one museum or north-city route, then return for FotoFilmic JRNL at 18:00.",
+      "planZh": "选一座博物馆或北城路线，然后回来参加 18:00 的 FotoFilmic JRNL 活动。",
+      "audience": "fotofilmic"
+    },
+    {
+      "date": "2026-11-14",
+      "plan": "A half-day route; leave time for FotoFilmic closing at 18:00. LE BAL book signings are an alternative, not another obligation.",
+      "planZh": "走半天路线；为 18:00 的 FotoFilmic 闭幕留出时间。LE BAL 的签售会可作为替代选择，不是额外的任务。",
+      "audience": "fotofilmic"
+    },
+    {
+      "date": "2026-11-15",
+      "plan": "Institutions and riverbank route if departure permits; BnF opens at 13:00. Most galleries are shut. Check your own departure time; staff deinstallation duties are not participant requirements.",
+      "planZh": "如果离开的时间允许，可去各机构并走河岸路线；BnF 13:00 开门。大多数画廊不开门。请确认你自己的离开时间；工作人员的撤展工作不是学员的义务。",
+      "audience": "fotofilmic"
+    }
+  ]
+}
