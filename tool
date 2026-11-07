@@ -1,5 +1,5 @@
 #!/bin/sh
-# The routine's tool, from 57dd051ba3b2: scripts/suggestions/tool.mts next to this script, wherever the
+# The routine's tool, from e5a8ecdf2d0a: scripts/suggestions/tool.mts next to this script, wherever the
 # folder is, with the node on PATH. NODE_USE_ENV_PROXY: Node's fetch goes through
 # the proxy in HTTPS_PROXY, as curl and npm do, when the session names one.
 export NODE_USE_ENV_PROXY=1
