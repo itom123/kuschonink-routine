@@ -14,6 +14,7 @@ the tool and the modules it imports, the guides' files, `package.json` and
 says which commit.
 
 Don't change anything here: each sync replaces everything but this file,
-`.gitignore` and `.github/`, and a ruleset lets only that workflow push. These
-three files come from kuschonink.com's `scripts/suggestions/routine-repo/`:
-change them there first.
+`.gitignore` and `.github/`. A ruleset blocks new branches, deletions and
+force pushes; any other commit is undone by the next sync. These three files
+come from kuschonink.com's `scripts/suggestions/routine-repo/`: change them
+there first.
