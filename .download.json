@@ -1,8 +1,9 @@
 {
-  "commit": "ff29643d9a58",
+  "commit": "eccd7592517b",
   "why": "the commit the live site runs (its build id, from https://kuschonink.com/)",
   "guides": [
-    "paris-2026-11"
+    "paris-2026-11",
+    "paris-restaurants"
   ],
   "packages": {
     "sharp": "^0.35.5"
@@ -18,6 +19,12 @@
     "src/content/guides/paris-2026-11/map.json",
     "src/content/guides/paris-2026-11/places.json",
     "src/content/guides/paris-2026-11/routes.json",
+    "src/content/guides/paris-restaurants/events.json",
+    "src/content/guides/paris-restaurants/guide.json",
+    "src/content/guides/paris-restaurants/items.json",
+    "src/content/guides/paris-restaurants/map.json",
+    "src/content/guides/paris-restaurants/places.json",
+    "src/content/guides/paris-restaurants/routes.json",
     "src/lib/guides/address.ts",
     "src/lib/guides/check.ts",
     "src/lib/guides/core.ts",
